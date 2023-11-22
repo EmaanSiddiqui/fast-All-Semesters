@@ -1,0 +1,150 @@
+movieId,title,genres,year,rating
+1,Toy Story,adventure,1995,3.920930233
+2,Jumanji,adventure,1995,3.431818182
+3,Grumpier Old Men,comedy,1995,3.259615385
+4,Waiting to Exhale,comedy,1995,2.357142857
+5,Father of the Bride Part II,comedy,1995,3.071428571
+6,Heat,action,1995,3.946078431
+7,Sabrina,comedy,1995,3.185185185
+8,Tom and Huck,adventure,1995,2.875
+9,Sudden Death,action,1995,3.125
+10,GoldenEye,action,1995,3.496212121
+11,"American President, The",comedy,1995,3.671428571
+12,Dracula: Dead and Loving It,comedy,1995,2.421052632
+13,Balto,adventure,1995,3.125
+14,Nixon,drama,1995,3.833333333
+15,Cutthroat Island,action,1995,3.0
+16,Casino,crime,1995,3.926829268
+17,Sense and Sensibility,drama,1995,3.776119403
+18,Four Rooms,comedy,1995,3.7
+19,Ace Ventura: When Nature Calls,comedy,1995,2.727272727
+20,Money Train,action,1995,2.5
+21,Get Shorty,comedy,1995,3.494382022
+22,Copycat,crime,1995,3.222222222
+23,Assassins,action,1995,3.125
+24,Powder,drama,1995,3.125
+25,Leaving Las Vegas,drama,1995,3.625
+26,Othello,drama,1995,3.5
+27,Now and Then,children,1995,3.333333333
+28,Persuasion,drama,1995,4.227272727
+29,"City of Lost Children, The (Cité des enfants perdus, La)",adventure,1995,4.013157895
+30,Shanghai Triad (Yao a yao yao dao waipo qiao),crime,1995,3.0
+31,Dangerous Minds,drama,1995,3.184210526
+32,Twelve Monkeys (a.k.a. 12 Monkeys),mystery,1995,3.983050847
+34,Babe,children,1995,3.65234375
+36,Dead Man Walking,crime,1995,3.835820896
+38,It Takes Two,children,1995,2.125
+39,Clueless,comedy,1995,3.293269231
+40,"Cry, the Beloved Country",drama,1995,4.25
+41,Richard III,drama,1995,3.7
+42,Dead Presidents,action,1995,3.0
+43,Restoration,drama,1995,3.1875
+44,Mortal Kombat,action,1995,2.543478261
+45,To Die For,comedy,1995,3.3125
+46,How to Make an American Quilt,drama,1995,3.066666667
+47,Seven (a.k.a. Se7en),mystery,1995,3.975369458
+48,Pocahontas,animation,1995,3.147058824
+49,When Night Is Falling,drama,1995,3.0
+50,"Usual Suspects, The",crime,1995,4.237745098
+52,Mighty Aphrodite,comedy,1995,3.464285714
+53,Lamerica,adventure,1994,5.0
+54,"Big Green, The",children,1995,2.333333333
+55,Georgia,drama,1995,4.0
+57,Home for the Holidays,drama,1995,3.0625
+58,"Postman, The (Postino, Il)",comedy,1994,4.027027027
+60,"Indian in the Cupboard, The",adventure,1995,3.235294118
+61,Eye for an Eye,drama,1996,3.75
+62,Mr. Holland's Opus,drama,1995,3.70625
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,comedy,1996,2.714285714
+64,Two if by Sea,comedy,1996,2.2
+65,Bio-Dome,comedy,1996,2.532258065
+66,Lawnmower Man 2: Beyond Cyberspace,action,1996,2.5
+68,French Twist (Gazon maudit),comedy,1995,3.4
+69,Friday,comedy,1995,3.775
+70,From Dusk Till Dawn,action,1996,3.509090909
+71,Fair Game,action,1995,1.7
+72,Kicking and Screaming,comedy,1995,3.214285714
+73,"Misérables, Les",drama,1995,3.461538462
+74,Bed of Roses,drama,1996,4.0
+75,Big Bully,comedy,1996,2.2
+76,Screamers,action,1995,3.4
+77,Nico Icon,documentary,1995,4.0
+78,"Crossing Guard, The",action,1995,3.333333333
+79,"Juror, The",drama,1996,2.764705882
+80,"White Balloon, The (Badkonake sefid)",children,1995,4.0
+81,Things to Do in Denver When You're Dead,crime,1995,3.107142857
+82,Antonia's Line (Antonia),comedy,1995,3.875
+83,Once Upon a Time... When We Were Colored,drama,1995,3.0
+85,Angels and Insects,drama,1995,3.857142857
+86,White Squall,action,1996,3.966666667
+87,Dunston Checks In,children,1996,2.5
+88,Black Sheep,comedy,1996,3.15625
+89,Nick of Time,action,1995,3.25
+92,Mary Reilly,drama,1996,2.625
+93,Vampire in Brooklyn,comedy,1995,2.833333333
+94,Beautiful Girls,comedy,1996,3.95
+95,Broken Arrow,action,1996,3.023809524
+96,In the Bleak Midwinter,comedy,1995,3.5
+97,"Hate (Haine, La)",crime,1995,3.9
+99,Heidi Fleiss: Hollywood Madam,documentary,1995,5.0
+100,City Hall,drama,1996,2.785714286
+101,Bottle Rocket,adventure,1996,3.782608696
+102,Mr. Wrong,comedy,1996,2.4
+103,Unforgettable,mystery,1996,3.0
+104,Happy Gilmore,comedy,1996,3.439393939
+105,"Bridges of Madison County, The",drama,1995,3.282608696
+106,Nobody Loves Me (Keiner liebt mich),comedy,1994,4.0
+107,Muppet Treasure Island,adventure,1996,3.326923077
+108,Catwalk,documentary,1996,4.0
+110,Braveheart,action,1995,4.03164557
+111,Taxi Driver,crime,1976,4.105769231
+112,Rumble in the Bronx (Hont faan kui),action,1995,3.543478261
+113,Before and After,drama,1996,3.333333333
+116,Anne Frank Remembered,documentary,1995,3.9
+117,"Young Poisoner's Handbook, The",crime,1995,3.0
+118,If Lucy Fell,comedy,1996,2.5
+119,"Steal Big, Steal Little",comedy,1995,3.0
+121,"Boys of St. Vincent, The",drama,1992,4.0
+122,Boomerang,comedy,1992,2.65625
+123,Chungking Express (Chung Hing sam lam),drama,1994,4.375
+125,Flirting With Disaster,comedy,1996,3.583333333
+126,"NeverEnding Story III, The",adventure,1994,2.0
+128,Jupiter's Wife,documentary,1994,3.0
+129,Pie in the Sky,comedy,1996,2.0
+132,Jade,thriller,1995,2.833333333
+135,Down Periscope,comedy,1996,2.951612903
+137,Man of the Year,documentary,1995,3.0
+140,Up Close and Personal,drama,1996,3.5
+141,"Birdcage, The",comedy,1996,3.494186047
+144,"Brothers McMullen, The",comedy,1995,3.333333333
+145,Bad Boys,action,1995,3.245098039
+146,"Amazing Panda Adventure, The",adventure,1995,3.333333333
+147,"Basketball Diaries, The",drama,1995,3.466666667
+148,"Awfully Big Adventure, An",drama,1995,5.0
+149,Amateur,crime,1994,2.0
+150,Apollo 13,adventure,1995,3.845771144
+151,Rob Roy,action,1995,3.545454545
+152,"Addiction, The",drama,1995,1.5
+153,Batman Forever,action,1995,2.916058394
+154,Beauty of the Day (Belle de jour),drama,1967,3.875
+155,Beyond Rangoon,adventure,1995,2.416666667
+156,Blue in the Face,comedy,1995,3.333333333
+157,Canadian Bacon,comedy,1995,2.863636364
+158,Casper,adventure,1995,2.806451613
+159,Clockers,crime,1995,2.892857143
+160,Congo,action,1995,2.877192982
+161,Crimson Tide,drama,1995,3.63592233
+162,Crumb,documentary,1994,4.205882353
+163,Desperado,action,1995,3.560606061
+164,Devil in a Blue Dress,crime,1995,3.321428571
+165,Die Hard: With a Vengeance,action,1995,3.555555556
+166,"Doom Generation, The",comedy,1995,2.833333333
+168,First Knight,action,1995,3.083333333
+169,Free Willy 2: The Adventure Home,adventure,1995,2.4
+170,Hackers,action,1995,3.228571429
+171,Jeffrey,comedy,1995,3.833333333
+172,Johnny Mnemonic,action,1995,2.679245283
+173,Judge Dredd,action,1995,2.669354839
+174,Jury Duty,comedy,1995,2.7
+175,Kids,drama,1995,3.975
+176,Living in Oblivion,comedy,1995,4.307692308
